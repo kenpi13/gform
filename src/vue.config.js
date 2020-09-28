@@ -1,4 +1,5 @@
 module.exports = {
-    publicPath: '/gform/',
-    outputDir: 'docs'
+    outputDir: 'docs',
+    assetsDir: './',
+    publicPath: './'
   }
